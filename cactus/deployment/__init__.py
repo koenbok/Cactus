@@ -9,6 +9,7 @@ PROVIDER_MAPPING = {
     "rackspace": "cactus.deployment.cloudfiles.engine.CloudFilesDeploymentEngine",
     "google": "cactus.deployment.gcs.engine.GCSDeploymentEngine",
     "aws": "cactus.deployment.s3.engine.S3DeploymentEngine",
+    "neocities": "cactus.deployment.neocities.engine.NeocitiesDeploymentEngine",
 }
 
 
